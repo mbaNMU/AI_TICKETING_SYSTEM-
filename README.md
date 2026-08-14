@@ -4,6 +4,7 @@ OpsAI is an AI-powered Business Operations Platform designed to help organizatio
 
 Using server-side AI model integration (Gemini 3.6 Flash / OpenAI API), OpsAI automatically analyzes incoming requests and maps them into predefined business categories, generates concise summaries, recommends operational action steps, and sends automated email receipts with detailed tracking numbers.
 
+live version: https://id-preview--fa13cc3d-e100-4921-88fa-7c3bd87ca3ac.lovable.app/dashboard
 ---
 
 ## 🌟 Key Application Features
