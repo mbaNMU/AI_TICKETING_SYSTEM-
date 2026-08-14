@@ -1,0 +1,6 @@
+{
+  "name": "OpsAI — AI Business Request Classification Platform",
+  "description": "AI-powered Business Operations Platform to receive, manage, and automatically classify employee and customer requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
